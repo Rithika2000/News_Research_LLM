@@ -13,7 +13,7 @@
 
 1.Run the Streamlit app by executing:
 
-streamlit run Retail.url.py
+streamlit run Retail-try.url.py
 
 2.The web app will open in your browser.
 
@@ -39,7 +39,7 @@ https://www.moneycontrol.com/news/business/stocks/buy-tata-motors-target-of-rs-7
 
 # Project Structure
 
-Retail.url.py: The main Streamlit application script.
+Retail-try.url.py: The main Streamlit application script.
 
 vector_index.pkl: A pickle file to store the FAISS index.
 
